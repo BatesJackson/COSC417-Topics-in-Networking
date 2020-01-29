@@ -1,0 +1,44 @@
+AS      | IP               | AS Name
+6327    | 64.59.170.177    | SHAW - Shaw Communications Inc., CA
+6327    | 66.163.67.217    | SHAW - Shaw Communications Inc., CA
+6327    | 66.163.72.69     | SHAW - Shaw Communications Inc., CA
+6327    | 66.163.76.58     | SHAW - Shaw Communications Inc., CA
+6327    | 66.163.76.22     | SHAW - Shaw Communications Inc., CA
+6327    | 66.163.78.146    | SHAW - Shaw Communications Inc., CA
+2603    | 109.105.97.65    | NORDUNET, NO
+2603    | 109.105.97.50    | NORDUNET, NO
+2603    | 109.105.97.76    | NORDUNET, NO
+2603    | 109.105.102.58   | NORDUNET, NO
+3267    | 194.85.40.206    | RUNNET, RU
+3267    | 194.190.254.118  | RUNNET, RU
+2848    | 93.180.0.191     | MSU Vorobjovy Gory, Moscow, Russia, RU
+2848    | 188.44.50.103    | MSU Vorobjovy Gory, Moscow, Russia, RU
+
+
+
+6327    | 64.59.170.177    | SHAW - Shaw Communications Inc., CA
+6327    | 66.163.67.217    | SHAW - Shaw Communications Inc., CA
+6327    | 66.163.70.106    | SHAW - Shaw Communications Inc., CA
+6327    | 66.163.64.81     | SHAW - Shaw Communications Inc., CA
+1299    | 62.115.146.72    | TELIANET Telia Carrier, SE
+1299    | 62.115.117.49    | TELIANET Telia Carrier, SE
+1299    | 62.115.112.245   | TELIANET Telia Carrier, SE
+1299    | 62.115.114.229   | TELIANET Telia Carrier, SE
+1299    | 62.115.114.99    | TELIANET Telia Carrier, SE
+1299    | 62.115.142.5     | TELIANET Telia Carrier, SE
+1299    | 213.248.97.41    | TELIANET Telia Carrier, SE
+680     | 188.1.144.134    | DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
+680     | 188.1.144.37     | DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
+680     | 188.1.231.82     | DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
+680     | 134.100.254.177  | DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
+680     | 134.100.36.5     | DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
+
+
+6327    | 64.59.170.177    | SHAW - Shaw Communications Inc., CA
+6327    | 66.163.67.217    | SHAW - Shaw Communications Inc., CA
+6327    | 66.163.72.69     | SHAW - Shaw Communications Inc., CA
+6327    | 66.163.76.58     | SHAW - Shaw Communications Inc., CA
+6327    | 66.163.76.22     | SHAW - Shaw Communications Inc., CA
+6327    | 66.163.66.26     | SHAW - Shaw Communications Inc., CA
+812     | 72.142.108.182   | ROGERS-COMMUNICATIONS - Rogers Communications Canada Inc., CA
+12093   | 129.97.208.23    | UWATERLOO - University of Waterloo, CA
